@@ -3,61 +3,46 @@
 
 🎓 Diplômé en **Sport Business**  
 📊 Futur étudiant en **Master Data**  
-🐍 Actuellement en apprentissage de **Python**
+🐍 Actuellement en apprentissage de **Python**## À propos de moi
 
 ---
 
-## À propos de moi
+Je me forme actuellement à **Python** en attendant ma rentrée en **Master spécialisé en Data**.
 
-Je me forme actuellement à **Python et aux bases de la data** en attendant ma **rentrée en Master spécialisé en Data**.
+L’objectif est de développer des compétences solides en programmation et en analyse de données afin de pouvoir utiliser la **data pour résoudre des problèmes concrets**, notamment dans des environnements business et sportifs.
 
-Mon objectif est de développer des compétences solides en :
+---
 
-- analyse de données  
-- automatisation  
-- programmation  
-- résolution de problèmes avec le code  
+## À propos de cette page
 
-À terme, je souhaite utiliser la **data et la technologie pour créer de la valeur dans le business et le sport**.
+Cette page GitHub est dédiée **principalement à mon apprentissage de Python**.
+
+Vous y trouverez :
+
+- des **exercices Python**
+- des **petits projets**
+- des **tests et expérimentations**
+- ma **progression dans l’apprentissage du langage**
+
+L’idée est simple : **apprendre Python en pratiquant et documenter mon évolution**.
 
 ---
 
 ## Ce que j’apprends actuellement
 
-- les fondamentaux de **Python**  
-- la manipulation de données  
-- la logique de programmation  
+- les fondamentaux de **Python**
+- la logique de programmation
+- la manipulation de données
 - les bases de **Git et GitHub**
 
 ---
 
-## Ce que vous trouverez sur ce GitHub
+## Objectif
 
-Sur ce profil, je partagerai :
+📚 Me préparer au mieux pour ma **rentrée en Master Data**  
+💻 Développer des compétences solides en **Python**
 
-- mes **exercices Python**  
-- des **petits projets**  
-- mes **expérimentations en programmation**  
-- ma **progression dans l’apprentissage du code**
 
-Objectif : **apprendre en construisant et en documentant mon évolution.**
-
----
-
-## Outils & technologies
-
-- Python  
-- Git  
-- GitHub  
-
----
-
-## Focus actuel
-
-📚 Préparation de mon **Master en Data**  
-💻 Développement de mes compétences en **Python**
-
----
 
 ## Me contacter
 
