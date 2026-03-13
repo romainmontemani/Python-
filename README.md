@@ -3,9 +3,11 @@
 
 🎓 Diplômé en **Sport Business**  
 📊 Futur étudiant en **Master Data**  
-🐍 Actuellement en apprentissage de **Python**## À propos de moi
+🐍 Actuellement en apprentissage de **Python**
 
 ---
+
+## À propos de moi
 
 Je me forme actuellement à **Python** en attendant ma rentrée en **Master spécialisé en Data**.
 
